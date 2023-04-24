@@ -2,7 +2,7 @@
 
 ## Clean
 
-* PVC a plasticos
+* PLega como papel y carton 
 * que en aquellas filas donde se encuentran duplicados se pueda sumar la cantidad de kilos.
 
 ## Completar
