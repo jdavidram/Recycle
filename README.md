@@ -2,7 +2,7 @@
 
 ## Clean
 
-* PLega como papel y carton 
+* PLega como papel y carton
 * eliminar filas iguales
 * que en aquellas filas donde se encuentran duplicados se pueda sumar la cantidad de kilos.
 
