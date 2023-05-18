@@ -2,7 +2,6 @@
 
 ## Clean
 
-* PLega como papel y carton
 * eliminar filas iguales
 * que en aquellas filas donde se encuentran duplicados se pueda sumar la cantidad de kilos.
 
@@ -15,7 +14,4 @@
 * hacer un promedio del valor de cada kilo de aluminio y de cobre ya que lo tenemos dentro de una misma categoria.
 
 ## Agregar
-
-* Esto es una prueba desde GitHub a pc
-
 
