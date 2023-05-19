@@ -1,0 +1,1196 @@
+Fecha,Operador_logistíco,Sede,Nombre_Categoria,Nombre_Material,Cantidad_kg,YEAR,MONTH
+2016-01-28,Recuperar,Medellín,Metales,Aluminio,24.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Metales,Chatarra,3230.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Papeles y Cartones,Archivo,2409.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Papeles y Cartones,Cartón,858.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Papeles y Cartones,Periódico,372.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Papeles y Cartones,Plega,141.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Plásticos,Pasta,529.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Plásticos,Plega,48.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Plásticos,Plástico,326.0,2016,Ene
+2016-01-28,Recuperar,Medellín,Vidrios,Vidrio,1072.0,2016,Ene
+2016-02-28,Recuperar,Medellín,Metales,Aluminio,13.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Metales,Chatarra,3092.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Otros,Palos de Escoba,104.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Papeles y Cartones,Archivo,2618.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1759.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Papeles y Cartones,Periódico,814.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Papeles y Cartones,Plega,265.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Plásticos,Pasta,1304.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Plásticos,Plega,242.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Plásticos,Plástico,167.0,2016,Feb
+2016-02-28,Recuperar,Medellín,Vidrios,Vidrio,1109.0,2016,Feb
+2016-03-28,Recuperar,Medellín,Metales,Aluminio,11.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Metales,Chatarra,87.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1000.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Papeles y Cartones,Cartón,831.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Papeles y Cartones,Periódico,284.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Papeles y Cartones,Plega,154.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Plásticos,Pasta,789.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Plásticos,Plega,165.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Plásticos,Plástico,132.0,2016,Mar
+2016-03-28,Recuperar,Medellín,Vidrios,Vidrio,436.0,2016,Mar
+2016-04-28,Recuperar,Medellín,Metales,Aluminio,23.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Metales,Chatarra,1027.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Otros,Palos de Escoba,45.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1553.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1180.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Papeles y Cartones,Periódico,910.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Papeles y Cartones,Plega,466.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Plásticos,Pasta,1670.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Plásticos,Plega,473.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Plásticos,Plástico,313.0,2016,Abr
+2016-04-28,Recuperar,Medellín,Vidrios,Vidrio,1677.0,2016,Abr
+2016-05-28,Recuperar,Medellín,Metales,Aluminio,29.0,2016,May
+2016-05-28,Recuperar,Medellín,Metales,Chatarra,3043.0,2016,May
+2016-05-28,Recuperar,Medellín,Otros,Palos de Escoba,28.0,2016,May
+2016-05-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1462.0,2016,May
+2016-05-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1130.0,2016,May
+2016-05-28,Recuperar,Medellín,Papeles y Cartones,Periódico,830.0,2016,May
+2016-05-28,Recuperar,Medellín,Papeles y Cartones,Plega,406.0,2016,May
+2016-05-28,Recuperar,Medellín,Plásticos,Pasta,1368.0,2016,May
+2016-05-28,Recuperar,Medellín,Plásticos,Plega,383.0,2016,May
+2016-05-28,Recuperar,Medellín,Plásticos,Plástico,213.0,2016,May
+2016-05-28,Recuperar,Medellín,Vidrios,Vidrio,775.0,2016,May
+2016-06-28,Recuperar,Medellín,Metales,Aluminio,7.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Metales,Chatarra,2672.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Otros,Palos de Escoba,50.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1042.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Papeles y Cartones,Cartón,551.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Papeles y Cartones,Periódico,181.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Papeles y Cartones,Plega,167.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Plásticos,Pasta,641.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Plásticos,Plega,119.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Plásticos,Plástico,164.0,2016,Jun
+2016-06-28,Recuperar,Medellín,Vidrios,Vidrio,647.0,2016,Jun
+2016-07-28,Recuperar,Medellín,Metales,Aluminio,0.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Metales,Chatarra,137.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Otros,Palos de Escoba,89.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Papeles y Cartones,Archivo,741.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Papeles y Cartones,Cartón,581.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Papeles y Cartones,Periódico,131.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Papeles y Cartones,Plega,125.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Plásticos,Pasta,374.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Plásticos,Plega,88.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Plásticos,Plástico,112.0,2016,Jul
+2016-07-28,Recuperar,Medellín,Vidrios,Vidrio,459.0,2016,Jul
+2016-08-28,Recuperar,Medellín,Metales,Aluminio,4.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Metales,Chatarra,141.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Otros,Palos de Escoba,20.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1648.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1075.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Papeles y Cartones,Periódico,487.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Papeles y Cartones,Plega,162.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Plásticos,Pasta,1036.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Plásticos,Plega,293.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Plásticos,Plástico,419.0,2016,Ago
+2016-08-28,Recuperar,Medellín,Vidrios,Vidrio,709.0,2016,Ago
+2016-09-28,Recuperar,Medellín,Metales,Aluminio,20.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Metales,Chatarra,1721.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Otros,Palos de Escoba,78.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1053.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1358.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Papeles y Cartones,Periódico,946.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Papeles y Cartones,Plega,414.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Plásticos,Pasta,1250.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Plásticos,Plega,421.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Plásticos,Plástico,329.0,2016,Sept
+2016-09-28,Recuperar,Medellín,Vidrios,Vidrio,1080.0,2016,Sept
+2016-10-28,Recuperar,Medellín,Metales,Aluminio,50.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Metales,Chatarra,3217.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Otros,Palos de Escoba,64.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1280.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1006.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Papeles y Cartones,Periódico,790.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Papeles y Cartones,Plega,417.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Plásticos,Pasta,1053.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Plásticos,Plega,388.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Plásticos,Plástico,254.0,2016,Oct
+2016-10-28,Recuperar,Medellín,Vidrios,Vidrio,1007.0,2016,Oct
+2016-11-28,Recuperar,Medellín,Metales,Aluminio,8.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Metales,Chatarra,1428.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Papeles y Cartones,Archivo,628.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Papeles y Cartones,Cartón,534.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Papeles y Cartones,Periódico,412.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Papeles y Cartones,Plega,210.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Plásticos,Pasta,624.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Plásticos,Plega,181.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Plásticos,Plástico,49.0,2016,Nov
+2016-11-28,Recuperar,Medellín,Vidrios,Vidrio,521.0,2016,Nov
+2016-12-28,Recuperar,Medellín,Metales,Aluminio,8.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Metales,Chatarra,43.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Otros,Palos de Escoba,19.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Papeles y Cartones,Archivo,679.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Papeles y Cartones,Cartón,684.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Papeles y Cartones,Periódico,279.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Papeles y Cartones,Plega,288.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Plásticos,Pasta,683.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Plásticos,Plega,253.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Plásticos,Plástico,244.0,2016,Dic
+2016-12-28,Recuperar,Medellín,Vidrios,Vidrio,423.0,2016,Dic
+2017-01-28,Recuperar,Medellín,Metales,Aluminio,12.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Metales,Chatarra,4542.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Otros,Polipropileno,0.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1444.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Papeles y Cartones,Cartón,855.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Papeles y Cartones,Periódico,152.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Papeles y Cartones,Plega,116.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Plásticos,Pasta,461.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Plásticos,Plega,117.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Plásticos,Plástico,130.0,2017,Ene
+2017-01-28,Recuperar,Medellín,Vidrios,Vidrio,1117.0,2017,Ene
+2017-02-28,Recuperar,Medellín,Metales,Aluminio,6.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Metales,Chatarra,116.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Otros,Palos de Escoba,9.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Otros,Polipropileno,0.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1511.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1252.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Papeles y Cartones,Periódico,437.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Papeles y Cartones,Plega,333.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Plásticos,Pasta,1015.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Plásticos,Plega,275.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Plásticos,Plástico,238.0,2017,Feb
+2017-02-28,Recuperar,Medellín,Vidrios,Vidrio,719.0,2017,Feb
+2017-03-28,Recuperar,Medellín,Metales,Aluminio,11.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Metales,Chatarra,118.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Otros,Palos de Escoba,54.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Otros,Polipropileno,0.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Papeles y Cartones,Archivo,687.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Papeles y Cartones,Cartón,986.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Papeles y Cartones,Periódico,417.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Papeles y Cartones,Plega,268.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Plásticos,Pasta,678.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Plásticos,Plega,343.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Plásticos,Plástico,226.0,2017,Mar
+2017-03-28,Recuperar,Medellín,Vidrios,Vidrio,442.0,2017,Mar
+2017-04-28,Recuperar,Medellín,Metales,Aluminio,11.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Metales,Chatarra,251.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Otros,Polipropileno,3.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1339.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1367.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Papeles y Cartones,Periódico,569.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Papeles y Cartones,Plega,446.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Plásticos,Pasta,820.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Plásticos,Plega,281.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Plásticos,Plástico,309.0,2017,Abr
+2017-04-28,Recuperar,Medellín,Vidrios,Vidrio,721.0,2017,Abr
+2017-05-28,Recuperar,Medellín,Metales,Aluminio,11.0,2017,May
+2017-05-28,Recuperar,Medellín,Metales,Chatarra,2304.0,2017,May
+2017-05-28,Recuperar,Medellín,Otros,Palos de Escoba,94.0,2017,May
+2017-05-28,Recuperar,Medellín,Papeles y Cartones,Archivo,612.0,2017,May
+2017-05-28,Recuperar,Medellín,Papeles y Cartones,Cartón,597.0,2017,May
+2017-05-28,Recuperar,Medellín,Papeles y Cartones,Periódico,575.0,2017,May
+2017-05-28,Recuperar,Medellín,Papeles y Cartones,Plega,268.0,2017,May
+2017-05-28,Recuperar,Medellín,Plásticos,Pasta,895.0,2017,May
+2017-05-28,Recuperar,Medellín,Plásticos,Plega,281.0,2017,May
+2017-05-28,Recuperar,Medellín,Plásticos,Plástico,259.0,2017,May
+2017-05-28,Recuperar,Medellín,Vidrios,Vidrio,575.0,2017,May
+2017-06-28,Recuperar,Medellín,Metales,Aluminio,23.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Metales,Chatarra,2536.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1756.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1011.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Papeles y Cartones,Periódico,431.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Papeles y Cartones,Plega,328.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Plásticos,Pasta,997.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Plásticos,Plega,338.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Plásticos,Plástico,329.0,2017,Jun
+2017-06-28,Recuperar,Medellín,Vidrios,Vidrio,1143.0,2017,Jun
+2017-07-28,Recuperar,Medellín,Metales,Aluminio,5.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Metales,Chatarra,2222.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Otros,Palos de Escoba,56.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Papeles y Cartones,Archivo,683.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Papeles y Cartones,Cartón,465.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Papeles y Cartones,Periódico,241.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Papeles y Cartones,Plega,200.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Plásticos,Pasta,332.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Plásticos,Plega,100.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Plásticos,Plástico,159.0,2017,Jul
+2017-07-28,Recuperar,Medellín,Vidrios,Vidrio,288.0,2017,Jul
+2017-08-28,Recuperar,Medellín,Metales,Aluminio,7.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Metales,Chatarra,1545.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Otros,Palos de Escoba,50.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1563.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Papeles y Cartones,Cartón,693.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Papeles y Cartones,Periódico,258.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Papeles y Cartones,Plega,378.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Plásticos,Pasta,836.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Plásticos,Plega,286.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Plásticos,Plástico,260.0,2017,Ago
+2017-08-28,Recuperar,Medellín,Vidrios,Vidrio,552.0,2017,Ago
+2017-09-28,Recuperar,Medellín,Metales,Aluminio,110.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Metales,Chatarra,241.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Otros,Palos de Escoba,15.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1211.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1093.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Papeles y Cartones,Periódico,944.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Papeles y Cartones,Plega,480.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Plásticos,Pasta,1079.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Plásticos,Plega,454.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Plásticos,Plástico,423.0,2017,Sept
+2017-09-28,Recuperar,Medellín,Vidrios,Vidrio,1727.0,2017,Sept
+2017-10-28,Recuperar,Medellín,Metales,Aluminio,20.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Metales,Chatarra,76.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Otros,Palos de Escoba,40.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1037.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Papeles y Cartones,Cartón,637.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Papeles y Cartones,Periódico,1069.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Papeles y Cartones,Plega,404.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Plásticos,Pasta,780.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Plásticos,Plega,329.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Plásticos,Plástico,273.0,2017,Oct
+2017-10-28,Recuperar,Medellín,Vidrios,Vidrio,940.0,2017,Oct
+2017-11-28,Recuperar,Medellín,Metales,Aluminio,29.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Metales,Chatarra,3737.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Otros,Palos de Escoba,85.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1441.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1051.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Papeles y Cartones,Periódico,441.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Papeles y Cartones,Plega,539.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Plásticos,Pasta,908.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Plásticos,Plega,500.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Plásticos,Plástico,324.0,2017,Nov
+2017-11-28,Recuperar,Medellín,Vidrios,Vidrio,816.0,2017,Nov
+2017-12-28,Recuperar,Medellín,Metales,Aluminio,2.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Metales,Chatarra,28.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Papeles y Cartones,Archivo,308.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Papeles y Cartones,Cartón,163.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Papeles y Cartones,Periódico,52.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Papeles y Cartones,Plega,72.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Plásticos,Pasta,196.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Plásticos,Plega,49.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Plásticos,Plástico,55.0,2017,Dic
+2017-12-28,Recuperar,Medellín,Vidrios,Vidrio,111.0,2017,Dic
+2018-01-28,Recuperar,Medellín,Metales,Aluminio,16.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Metales,Chatarra,286.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Otros,Palos de Escoba,91.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Papeles y Cartones,Archivo,2137.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Papeles y Cartones,Cartón,842.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Papeles y Cartones,Periódico,393.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Papeles y Cartones,Plega,245.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Plásticos,Pasta,614.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Plásticos,Plega,115.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Plásticos,Plástico,179.0,2018,Ene
+2018-01-28,Recuperar,Medellín,Vidrios,Vidrio,479.0,2018,Ene
+2018-02-28,Recuperar,Medellín,Metales,Aluminio,9.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Metales,Chatarra,102.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Papeles y Cartones,Archivo,2037.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Papeles y Cartones,Cartón,2015.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Papeles y Cartones,Periódico,411.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Papeles y Cartones,Plega,224.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Plásticos,Pasta,692.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Plásticos,Plega,252.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Plásticos,Plástico,354.0,2018,Feb
+2018-02-28,Recuperar,Medellín,Vidrios,Vidrio,712.0,2018,Feb
+2018-03-28,Recuperar,Medellín,Metales,Aluminio,17.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Metales,Chatarra,2379.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Otros,Palos de Escoba,76.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1779.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1595.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Papeles y Cartones,Periódico,355.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Papeles y Cartones,Plega,321.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Plásticos,Pasta,858.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Plásticos,Plega,319.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Plásticos,Plástico,596.0,2018,Mar
+2018-03-28,Recuperar,Medellín,Vidrios,Vidrio,704.0,2018,Mar
+2018-04-28,Recuperar,Medellín,Metales,Aluminio,9.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Metales,Chatarra,5066.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Papeles y Cartones,Archivo,815.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Papeles y Cartones,Cartón,861.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Papeles y Cartones,Periódico,323.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Papeles y Cartones,Plega,274.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Plásticos,Pasta,489.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Plásticos,Plega,238.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Plásticos,Plástico,207.0,2018,Abr
+2018-04-28,Recuperar,Medellín,Vidrios,Vidrio,537.0,2018,Abr
+2018-05-28,Recuperar,Medellín,Metales,Aluminio,49.0,2018,May
+2018-05-28,Recuperar,Medellín,Metales,Chatarra,163.0,2018,May
+2018-05-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2018,May
+2018-05-28,Recuperar,Medellín,Papeles y Cartones,Archivo,873.0,2018,May
+2018-05-28,Recuperar,Medellín,Papeles y Cartones,Cartón,559.0,2018,May
+2018-05-28,Recuperar,Medellín,Papeles y Cartones,Periódico,484.0,2018,May
+2018-05-28,Recuperar,Medellín,Papeles y Cartones,Plega,261.0,2018,May
+2018-05-28,Recuperar,Medellín,Plásticos,Pasta,617.0,2018,May
+2018-05-28,Recuperar,Medellín,Plásticos,Plega,298.0,2018,May
+2018-05-28,Recuperar,Medellín,Plásticos,Plástico,195.0,2018,May
+2018-05-28,Recuperar,Medellín,Vidrios,Vidrio,629.0,2018,May
+2018-06-28,Recuperar,Medellín,Metales,Aluminio,14.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Metales,Chatarra,1488.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Otros,Palos de Escoba,33.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1415.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Papeles y Cartones,Cartón,791.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Papeles y Cartones,Periódico,232.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Papeles y Cartones,Plega,238.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Plásticos,Pasta,549.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Plásticos,Plega,148.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Plásticos,Plástico,147.0,2018,Jun
+2018-06-28,Recuperar,Medellín,Vidrios,Vidrio,327.0,2018,Jun
+2018-07-28,Recuperar,Medellín,Metales,Aluminio,21.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Metales,Chatarra,1507.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Otros,Palos de Escoba,58.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Papeles y Cartones,Archivo,2034.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1043.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Papeles y Cartones,Periódico,333.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Papeles y Cartones,Plega,257.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Plásticos,Pasta,636.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Plásticos,Plega,133.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Plásticos,Plástico,197.0,2018,Jul
+2018-07-28,Recuperar,Medellín,Vidrios,Vidrio,909.0,2018,Jul
+2018-08-28,Recuperar,Medellín,Metales,Aluminio,12.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Metales,Chatarra,3477.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Otros,Empaque de Fibra,13.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Otros,Palos de Escoba,1.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1645.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Papeles y Cartones,Cartón,896.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Papeles y Cartones,Periódico,430.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Papeles y Cartones,Plega,327.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Plásticos,Pasta,661.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Plásticos,Plega,305.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Plásticos,Plástico,287.0,2018,Ago
+2018-08-28,Recuperar,Medellín,Vidrios,Vidrio,710.0,2018,Ago
+2018-09-28,Recuperar,Medellín,Metales,Aluminio,12.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Metales,Chatarra,134.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Otros,Palos de Escoba,90.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Papeles y Cartones,Archivo,759.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Papeles y Cartones,Cartón,638.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Papeles y Cartones,Periódico,232.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Papeles y Cartones,Plega,311.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Plásticos,Pasta,547.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Plásticos,Plega,251.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Plásticos,Plástico,212.0,2018,Sept
+2018-09-28,Recuperar,Medellín,Vidrios,Vidrio,640.0,2018,Sept
+2018-10-28,Recuperar,Medellín,Metales,Aluminio,61.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Metales,Chatarra,487.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Otros,Palos de Escoba,75.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Papeles y Cartones,Archivo,980.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Papeles y Cartones,Cartón,701.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Papeles y Cartones,Periódico,397.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Papeles y Cartones,Plega,426.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Plásticos,Pasta,680.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Plásticos,Plega,359.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Plásticos,Plástico,273.0,2018,Oct
+2018-10-28,Recuperar,Medellín,Vidrios,Vidrio,1265.0,2018,Oct
+2018-11-28,Recuperar,Medellín,Metales,Aluminio,13.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Metales,Chatarra,693.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Otros,Palos de Escoba,42.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Papeles y Cartones,Archivo,756.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Papeles y Cartones,Cartón,600.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Papeles y Cartones,Periódico,114.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Papeles y Cartones,Plega,174.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Plásticos,Pasta,295.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Plásticos,Plega,176.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Plásticos,Plástico,161.0,2018,Nov
+2018-11-28,Recuperar,Medellín,Vidrios,Vidrio,343.0,2018,Nov
+2018-12-28,Recuperar,Medellín,Metales,Aluminio,10.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Metales,Chatarra,116.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Papeles y Cartones,Archivo,861.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Papeles y Cartones,Cartón,956.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Papeles y Cartones,Periódico,877.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Papeles y Cartones,Plega,347.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Plásticos,Pasta,342.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Plásticos,Plega,142.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Plásticos,Plástico,197.0,2018,Dic
+2018-12-28,Recuperar,Medellín,Vidrios,Vidrio,344.0,2018,Dic
+2019-01-28,Recuperar,Medellín,Metales,Aluminio,22.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Metales,Chatarra,3835.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Metales,Cobre,0.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Otros,Palos de Escoba,21.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1416.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Papeles y Cartones,Cartón,771.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Papeles y Cartones,Periódico,137.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Papeles y Cartones,Plega,317.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Plásticos,Pasta,494.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Plásticos,Plega,166.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Plásticos,Plástico,188.0,2019,Ene
+2019-01-28,Recuperar,Medellín,Vidrios,Vidrio,377.0,2019,Ene
+2019-02-28,Recuperar,Medellín,Metales,Aluminio,16.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Metales,Chatarra,105.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Metales,Cobre,0.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Otros,Palos de Escoba,0.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1931.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Papeles y Cartones,Cartón,831.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Papeles y Cartones,Periódico,308.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Papeles y Cartones,Plega,509.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Plásticos,Pasta,852.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Plásticos,Plega,443.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Plásticos,Plástico,222.0,2019,Feb
+2019-02-28,Recuperar,Medellín,Vidrios,Vidrio,716.0,2019,Feb
+2019-03-28,Recuperar,Medellín,Metales,Aluminio,30.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Metales,Chatarra,419.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Metales,Cobre,0.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Otros,Palos de Escoba,80.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Papeles y Cartones,Archivo,1996.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Papeles y Cartones,Cartón,1250.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Papeles y Cartones,Periódico,602.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Papeles y Cartones,Plega,662.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Plásticos,Pasta,1290.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Plásticos,Plega,545.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Plásticos,Plástico,322.0,2019,Mar
+2019-03-28,Recuperar,Medellín,Vidrios,Vidrio,1006.0,2019,Mar
+2019-04-28,Recimed,Medellín,Metales,Aluminio,13.0,2019,Abr
+2019-04-28,Recimed,Medellín,Metales,Chatarra,2572.0,2019,Abr
+2019-04-28,Recimed,Medellín,Metales,Cobre,0.0,2019,Abr
+2019-04-28,Recimed,Medellín,Otros,Palos de Escoba,17.0,2019,Abr
+2019-04-28,Recimed,Medellín,Papeles y Cartones,Archivo,1005.0,2019,Abr
+2019-04-28,Recimed,Medellín,Papeles y Cartones,Cartón,745.0,2019,Abr
+2019-04-28,Recimed,Medellín,Papeles y Cartones,Periódico,208.6,2019,Abr
+2019-04-28,Recimed,Medellín,Papeles y Cartones,Plega,457.0,2019,Abr
+2019-04-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,29.0,2019,Abr
+2019-04-28,Recimed,Medellín,Plásticos,Pasta,422.0,2019,Abr
+2019-04-28,Recimed,Medellín,Plásticos,Plega,0.0,2019,Abr
+2019-04-28,Recimed,Medellín,Plásticos,Plástico,167.0,2019,Abr
+2019-04-28,Recimed,Medellín,Vidrios,Vidrio,340.0,2019,Abr
+2019-05-28,Recimed,Medellín,Metales,Acero,2.0,2019,May
+2019-05-28,Recimed,Medellín,Metales,Aluminio,304.0,2019,May
+2019-05-28,Recimed,Medellín,Metales,Chatarra,1.0,2019,May
+2019-05-28,Recimed,Medellín,Metales,Cobre,3.0,2019,May
+2019-05-28,Recimed,Medellín,Otros,Palos de Escoba,0.0,2019,May
+2019-05-28,Recimed,Medellín,Papeles y Cartones,Archivo,648.0,2019,May
+2019-05-28,Recimed,Medellín,Papeles y Cartones,Cartón,996.0,2019,May
+2019-05-28,Recimed,Medellín,Papeles y Cartones,Periódico,62.4,2019,May
+2019-05-28,Recimed,Medellín,Papeles y Cartones,Plega,579.0,2019,May
+2019-05-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,260.0,2019,May
+2019-05-28,Recimed,Medellín,Plásticos,Pasta,785.0,2019,May
+2019-05-28,Recimed,Medellín,Plásticos,Plega,0.0,2019,May
+2019-05-28,Recimed,Medellín,Plásticos,Plástico,97.0,2019,May
+2019-05-28,Recimed,Medellín,Vidrios,Vidrio,262.0,2019,May
+2019-06-28,Recimed,Medellín,Metales,Aluminio,26.0,2019,Jun
+2019-06-28,Recimed,Medellín,Metales,Chatarra,2171.0,2019,Jun
+2019-06-28,Recimed,Medellín,Metales,Cobre,14.0,2019,Jun
+2019-06-28,Recimed,Medellín,Otros,Palos de Escoba,50.0,2019,Jun
+2019-06-28,Recimed,Medellín,Papeles y Cartones,Archivo,680.0,2019,Jun
+2019-06-28,Recimed,Medellín,Papeles y Cartones,Cartón,767.0,2019,Jun
+2019-06-28,Recimed,Medellín,Papeles y Cartones,Periódico,97.0,2019,Jun
+2019-06-28,Recimed,Medellín,Papeles y Cartones,Plega,475.0,2019,Jun
+2019-06-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,0.0,2019,Jun
+2019-06-28,Recimed,Medellín,Plásticos,Pasta,571.0,2019,Jun
+2019-06-28,Recimed,Medellín,Plásticos,Plega,0.0,2019,Jun
+2019-06-28,Recimed,Medellín,Plásticos,Plástico,184.0,2019,Jun
+2019-06-28,Recimed,Medellín,Vidrios,Vidrio,839.0,2019,Jun
+2019-07-28,Recimed,Medellín,Metales,Aluminio,13.0,2019,Jul
+2019-07-28,Recimed,Medellín,Metales,Chatarra,2133.0,2019,Jul
+2019-07-28,Recimed,Medellín,Metales,Cobre,0.0,2019,Jul
+2019-07-28,Recimed,Medellín,Otros,Palos de Escoba,42.0,2019,Jul
+2019-07-28,Recimed,Medellín,Papeles y Cartones,Archivo,566.0,2019,Jul
+2019-07-28,Recimed,Medellín,Papeles y Cartones,Cartón,325.0,2019,Jul
+2019-07-28,Recimed,Medellín,Papeles y Cartones,Periódico,83.4,2019,Jul
+2019-07-28,Recimed,Medellín,Papeles y Cartones,Plega,263.0,2019,Jul
+2019-07-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,20.0,2019,Jul
+2019-07-28,Recimed,Medellín,Plásticos,Pasta,359.0,2019,Jul
+2019-07-28,Recimed,Medellín,Plásticos,Plega,0.0,2019,Jul
+2019-07-28,Recimed,Medellín,Plásticos,Plástico,68.0,2019,Jul
+2019-07-28,Recimed,Medellín,Vidrios,Vidrio,381.0,2019,Jul
+2019-08-28,Recimed,Medellín,Metales,Aluminio,193.0,2019,Ago
+2019-08-28,Recimed,Medellín,Metales,Chatarra,26.0,2019,Ago
+2019-08-28,Recimed,Medellín,Metales,Cobre,0.0,2019,Ago
+2019-08-28,Recimed,Medellín,Otros,Palos de Escoba,0.0,2019,Ago
+2019-08-28,Recimed,Medellín,Papeles y Cartones,Archivo,327.0,2019,Ago
+2019-08-28,Recimed,Medellín,Papeles y Cartones,Cartón,3063.0,2019,Ago
+2019-08-28,Recimed,Medellín,Papeles y Cartones,Periódico,185.4,2019,Ago
+2019-08-28,Recimed,Medellín,Papeles y Cartones,Plega,312.0,2019,Ago
+2019-08-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,55.0,2019,Ago
+2019-08-28,Recimed,Medellín,Plásticos,Pasta,573.0,2019,Ago
+2019-08-28,Recimed,Medellín,Plásticos,Plega,82.0,2019,Ago
+2019-08-28,Recimed,Medellín,Plásticos,Plástico,157.0,2019,Ago
+2019-08-28,Recimed,Medellín,Vidrios,Vidrio,371.0,2019,Ago
+2019-09-28,Recimed,Medellín,Metales,Aluminio,63.0,2019,Sept
+2019-09-28,Recimed,Medellín,Metales,Chatarra,406.0,2019,Sept
+2019-09-28,Recimed,Medellín,Metales,Cobre,5.0,2019,Sept
+2019-09-28,Recimed,Medellín,Otros,Palos de Escoba,237.0,2019,Sept
+2019-09-28,Recimed,Medellín,Papeles y Cartones,Archivo,3347.0,2019,Sept
+2019-09-28,Recimed,Medellín,Papeles y Cartones,Cartón,2312.0,2019,Sept
+2019-09-28,Recimed,Medellín,Papeles y Cartones,Periódico,727.6,2019,Sept
+2019-09-28,Recimed,Medellín,Papeles y Cartones,Plega,2011.0,2019,Sept
+2019-09-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,198.0,2019,Sept
+2019-09-28,Recimed,Medellín,Plásticos,Pasta,2073.0,2019,Sept
+2019-09-28,Recimed,Medellín,Plásticos,Plega,136.0,2019,Sept
+2019-09-28,Recimed,Medellín,Plásticos,Plástico,714.0,2019,Sept
+2019-09-28,Recimed,Medellín,Vidrios,Vidrio,1464.0,2019,Sept
+2019-10-28,Recimed,Medellín,Metales,Aluminio,21.0,2019,Oct
+2019-10-28,Recimed,Medellín,Metales,Chatarra,2545.0,2019,Oct
+2019-10-28,Recimed,Medellín,Metales,Cobre,0.0,2019,Oct
+2019-10-28,Recimed,Medellín,Otros,Palos de Escoba,18.0,2019,Oct
+2019-10-28,Recimed,Medellín,Papeles y Cartones,Archivo,1629.0,2019,Oct
+2019-10-28,Recimed,Medellín,Papeles y Cartones,Cartón,783.0,2019,Oct
+2019-10-28,Recimed,Medellín,Papeles y Cartones,Periódico,456.2,2019,Oct
+2019-10-28,Recimed,Medellín,Papeles y Cartones,Plega,603.0,2019,Oct
+2019-10-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,53.0,2019,Oct
+2019-10-28,Recimed,Medellín,Plásticos,Pasta,1028.0,2019,Oct
+2019-10-28,Recimed,Medellín,Plásticos,Plega,140.0,2019,Oct
+2019-10-28,Recimed,Medellín,Plásticos,Plástico,245.0,2019,Oct
+2019-10-28,Recimed,Medellín,Vidrios,Vidrio,671.0,2019,Oct
+2019-11-28,Recimed,Medellín,Metales,Aluminio,22.0,2019,Nov
+2019-11-28,Recimed,Medellín,Metales,Chatarra,1032.0,2019,Nov
+2019-11-28,Recimed,Medellín,Metales,Cobre,0.0,2019,Nov
+2019-11-28,Recimed,Medellín,Otros,Palos de Escoba,6.0,2019,Nov
+2019-11-28,Recimed,Medellín,Papeles y Cartones,Archivo,1232.0,2019,Nov
+2019-11-28,Recimed,Medellín,Papeles y Cartones,Cartón,760.0,2019,Nov
+2019-11-28,Recimed,Medellín,Papeles y Cartones,Periódico,196.8,2019,Nov
+2019-11-28,Recimed,Medellín,Papeles y Cartones,Plega,723.0,2019,Nov
+2019-11-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,78.0,2019,Nov
+2019-11-28,Recimed,Medellín,Plásticos,Pasta,795.0,2019,Nov
+2019-11-28,Recimed,Medellín,Plásticos,Plega,0.0,2019,Nov
+2019-11-28,Recimed,Medellín,Plásticos,Plástico,154.0,2019,Nov
+2019-11-28,Recimed,Medellín,Vidrios,Vidrio,595.0,2019,Nov
+2020-01-28,Recimed,Medellín,Metales,Aluminio,2.7,2020,Ene
+2020-01-28,Recimed,Medellín,Metales,Chatarra,1662.3,2020,Ene
+2020-01-28,Recimed,Medellín,Otros,Palos de Escoba,167.0,2020,Ene
+2020-01-28,Recimed,Medellín,Papeles y Cartones,Archivo,858.6,2020,Ene
+2020-01-28,Recimed,Medellín,Papeles y Cartones,Cartón,620.9,2020,Ene
+2020-01-28,Recimed,Medellín,Papeles y Cartones,Periódico,112.7,2020,Ene
+2020-01-28,Recimed,Medellín,Papeles y Cartones,Plega,264.5,2020,Ene
+2020-01-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,436.8,2020,Ene
+2020-01-28,Recimed,Medellín,Plásticos,Pasta,175.1,2020,Ene
+2020-01-28,Recimed,Medellín,Plásticos,Pet,207.5,2020,Ene
+2020-01-28,Recimed,Medellín,Plásticos,Plega,17.0,2020,Ene
+2020-01-28,Recimed,Medellín,Plásticos,Plástico,80.4,2020,Ene
+2020-01-28,Recimed,Medellín,Vidrios,Vidrio,94.0,2020,Ene
+2020-02-28,Recimed,Medellín,Metales,Aluminio,30.4,2020,Feb
+2020-02-28,Recimed,Medellín,Metales,Chatarra,1042.5,2020,Feb
+2020-02-28,Recimed,Medellín,Otros,Palos de Escoba,98.0,2020,Feb
+2020-02-28,Recimed,Medellín,Papeles y Cartones,Archivo,1299.5,2020,Feb
+2020-02-28,Recimed,Medellín,Papeles y Cartones,Cartón,1260.4,2020,Feb
+2020-02-28,Recimed,Medellín,Papeles y Cartones,Periódico,262.2,2020,Feb
+2020-02-28,Recimed,Medellín,Papeles y Cartones,Plega,1162.8,2020,Feb
+2020-02-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,57.2,2020,Feb
+2020-02-28,Recimed,Medellín,Plásticos,Pasta,384.6,2020,Feb
+2020-02-28,Recimed,Medellín,Plásticos,Pet,927.3,2020,Feb
+2020-02-28,Recimed,Medellín,Plásticos,Plega,252.3,2020,Feb
+2020-02-28,Recimed,Medellín,Plásticos,Plástico,270.8,2020,Feb
+2020-02-28,Recimed,Medellín,Vidrios,Vidrio,967.0,2020,Feb
+2020-03-28,Recimed,Medellín,Metales,Aluminio,64.0,2020,Mar
+2020-03-28,Recimed,Medellín,Metales,Chatarra,2032.8,2020,Mar
+2020-03-28,Recimed,Medellín,Otros,Palos de Escoba,75.0,2020,Mar
+2020-03-28,Recimed,Medellín,Papeles y Cartones,Archivo,925.6,2020,Mar
+2020-03-28,Recimed,Medellín,Papeles y Cartones,Cartón,887.4,2020,Mar
+2020-03-28,Recimed,Medellín,Papeles y Cartones,Periódico,289.1,2020,Mar
+2020-03-28,Recimed,Medellín,Papeles y Cartones,Plega,972.0,2020,Mar
+2020-03-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,46.2,2020,Mar
+2020-03-28,Recimed,Medellín,Plásticos,Pasta,129.3,2020,Mar
+2020-03-28,Recimed,Medellín,Plásticos,Pet,602.4,2020,Mar
+2020-03-28,Recimed,Medellín,Plásticos,Plega,148.5,2020,Mar
+2020-03-28,Recimed,Medellín,Plásticos,Plástico,207.6,2020,Mar
+2020-03-28,Recimed,Medellín,Vidrios,Vidrio,705.1,2020,Mar
+2020-07-28,SOCYA,Medellín,Metales,Aluminio,0.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Metales,Chatarra,105.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Metales,Cobre,0.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Otros,Icopor,0.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Papeles y Cartones,Archivo,59.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Papeles y Cartones,Cartón,277.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Papeles y Cartones,Periódico,8.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Papeles y Cartones,Tetrapak,0.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Plásticos,Pet,26.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Plásticos,Plástico,159.0,2020,Jul
+2020-07-28,SOCYA,Medellín,Vidrios,Vidrio,0.0,2020,Jul
+2020-09-28,SOCYA,Medellín,Metales,Aluminio,0.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Metales,Chatarra,600.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Metales,Cobre,0.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Otros,Icopor,10.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Papeles y Cartones,Archivo,360.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Papeles y Cartones,Cartón,485.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Papeles y Cartones,Periódico,17.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Papeles y Cartones,Tetrapak,2.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Plásticos,Pet,53.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Plásticos,Plástico,673.0,2020,Sept
+2020-09-28,SOCYA,Medellín,Vidrios,Vidrio,51.0,2020,Sept
+2020-10-28,SOCYA,Medellín,Metales,Aluminio,10.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Metales,Chatarra,670.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Metales,Cobre,0.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Otros,Icopor,0.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Papeles y Cartones,Archivo,275.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Papeles y Cartones,Cartón,679.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Papeles y Cartones,Periódico,19.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Papeles y Cartones,Tetrapak,0.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Plásticos,Pet,20.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Plásticos,Plástico,198.0,2020,Oct
+2020-10-28,SOCYA,Medellín,Vidrios,Vidrio,81.0,2020,Oct
+2020-11-28,SOCYA,Medellín,Metales,Aluminio,30.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Metales,Chatarra,3116.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Metales,Cobre,40.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Otros,Icopor,10.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Papeles y Cartones,Archivo,500.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Papeles y Cartones,Cartón,322.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Papeles y Cartones,Periódico,33.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Papeles y Cartones,Tetrapak,0.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Plásticos,Pet,18.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Plásticos,Plástico,405.0,2020,Nov
+2020-11-28,SOCYA,Medellín,Vidrios,Vidrio,100.0,2020,Nov
+2020-12-28,SOCYA,Medellín,Metales,Aluminio,0.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Metales,Chatarra,235.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Metales,Cobre,0.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Otros,Icopor,8.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Papeles y Cartones,Archivo,670.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Papeles y Cartones,Cartón,361.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Papeles y Cartones,Periódico,35.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Papeles y Cartones,Tetrapak,0.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Plásticos,Pet,43.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Plásticos,Plástico,256.0,2020,Dic
+2020-12-28,SOCYA,Medellín,Vidrios,Vidrio,70.0,2020,Dic
+2021-01-28,SOCYA,Medellín,Metales,Aluminio,0.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Metales,Chatarra,602.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Otros,Icopor,2.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Otros,PVC,0.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Otros,Palos de Escoba,0.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Papeles y Cartones,Archivo,384.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Papeles y Cartones,Cartón,439.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Papeles y Cartones,Periódico,0.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Papeles y Cartones,Plega,50.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Plásticos,Pasta,0.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Plásticos,Pet,43.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Plásticos,Plega,0.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Plásticos,Plástico,180.0,2021,Ene
+2021-01-28,SOCYA,Medellín,Vidrios,Vidrio,35.0,2021,Ene
+2021-02-28,SOCYA,Medellín,Metales,Aluminio,20.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Metales,Chatarra,1092.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Otros,Icopor,0.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Otros,PVC,0.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Otros,Palos de Escoba,0.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Papeles y Cartones,Archivo,220.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Papeles y Cartones,Cartón,341.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Papeles y Cartones,Periódico,0.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Papeles y Cartones,Plega,0.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Plásticos,Pasta,0.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Plásticos,Pet,31.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Plásticos,Plega,0.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Plásticos,Plástico,104.0,2021,Feb
+2021-02-28,SOCYA,Medellín,Vidrios,Vidrio,0.0,2021,Feb
+2021-03-28,SOCYA,Medellín,Metales,Aluminio,12.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Metales,Chatarra,1880.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Otros,Icopor,27.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Otros,PVC,0.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Otros,Palos de Escoba,37.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Papeles y Cartones,Archivo,1607.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Papeles y Cartones,Cartón,869.5,2021,Mar
+2021-03-28,SOCYA,Medellín,Papeles y Cartones,Periódico,38.5,2021,Mar
+2021-03-28,SOCYA,Medellín,Papeles y Cartones,Plega,152.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Papeles y Cartones,Tetrapak,14.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Plásticos,Pasta,0.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Plásticos,Pet,62.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Plásticos,Plega,8.0,2021,Mar
+2021-03-28,SOCYA,Medellín,Plásticos,Plástico,663.7,2021,Mar
+2021-03-28,SOCYA,Medellín,Vidrios,Vidrio,120.0,2021,Mar
+2021-04-28,Recimed,Medellín,Metales,Aluminio,6.8,2021,Abr
+2021-04-28,Recimed,Medellín,Metales,Chatarra,1132.5,2021,Abr
+2021-04-28,Recimed,Medellín,Otros,Icopor,0.0,2021,Abr
+2021-04-28,Recimed,Medellín,Otros,PVC,139.2,2021,Abr
+2021-04-28,Recimed,Medellín,Otros,Palos de Escoba,63.0,2021,Abr
+2021-04-28,Recimed,Medellín,Papeles y Cartones,Archivo,213.7,2021,Abr
+2021-04-28,Recimed,Medellín,Papeles y Cartones,Cartón,246.0,2021,Abr
+2021-04-28,Recimed,Medellín,Papeles y Cartones,Periódico,17.5,2021,Abr
+2021-04-28,Recimed,Medellín,Papeles y Cartones,Plega,81.8,2021,Abr
+2021-04-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,53.6,2021,Abr
+2021-04-28,Recimed,Medellín,Plásticos,Pasta,57.6,2021,Abr
+2021-04-28,Recimed,Medellín,Plásticos,Pet,24.4,2021,Abr
+2021-04-28,Recimed,Medellín,Plásticos,Plega,0.0,2021,Abr
+2021-04-28,Recimed,Medellín,Plásticos,Plástico,39.0,2021,Abr
+2021-04-28,Recimed,Medellín,Vidrios,Vidrio,23.8,2021,Abr
+2021-05-28,Recimed,Medellín,Metales,Aluminio,0.0,2021,May
+2021-05-28,Recimed,Medellín,Metales,Chatarra,25.8,2021,May
+2021-05-28,Recimed,Medellín,Otros,Icopor,0.0,2021,May
+2021-05-28,Recimed,Medellín,Otros,PVC,5.6,2021,May
+2021-05-28,Recimed,Medellín,Otros,Palos de Escoba,0.0,2021,May
+2021-05-28,Recimed,Medellín,Papeles y Cartones,Archivo,102.6,2021,May
+2021-05-28,Recimed,Medellín,Papeles y Cartones,Cartón,70.4,2021,May
+2021-05-28,Recimed,Medellín,Papeles y Cartones,Periódico,50.0,2021,May
+2021-05-28,Recimed,Medellín,Papeles y Cartones,Plega,58.2,2021,May
+2021-05-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,May
+2021-05-28,Recimed,Medellín,Plásticos,Pasta,7.0,2021,May
+2021-05-28,Recimed,Medellín,Plásticos,Pet,6.2,2021,May
+2021-05-28,Recimed,Medellín,Plásticos,Plega,0.0,2021,May
+2021-05-28,Recimed,Medellín,Plásticos,Plástico,15.2,2021,May
+2021-05-28,Recimed,Medellín,Vidrios,Vidrio,0.0,2021,May
+2021-06-28,Recimed,Medellín,Metales,Aluminio,0.0,2021,Jun
+2021-06-28,Recimed,Medellín,Metales,Chatarra,1936.3,2021,Jun
+2021-06-28,Recimed,Medellín,Otros,Icopor,0.0,2021,Jun
+2021-06-28,Recimed,Medellín,Otros,PVC,14.3,2021,Jun
+2021-06-28,Recimed,Medellín,Otros,Palos de Escoba,15.0,2021,Jun
+2021-06-28,Recimed,Medellín,Papeles y Cartones,Archivo,968.7,2021,Jun
+2021-06-28,Recimed,Medellín,Papeles y Cartones,Cartón,1067.9,2021,Jun
+2021-06-28,Recimed,Medellín,Papeles y Cartones,Periódico,79.3,2021,Jun
+2021-06-28,Recimed,Medellín,Papeles y Cartones,Plega,368.6,2021,Jun
+2021-06-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,Jun
+2021-06-28,Recimed,Medellín,Plásticos,Pasta,214.0,2021,Jun
+2021-06-28,Recimed,Medellín,Plásticos,Pet,51.0,2021,Jun
+2021-06-28,Recimed,Medellín,Plásticos,Plega,0.0,2021,Jun
+2021-06-28,Recimed,Medellín,Plásticos,Plástico,273.1,2021,Jun
+2021-06-28,Recimed,Medellín,Vidrios,Vidrio,28.0,2021,Jun
+2021-07-28,Recimed,Medellín,Metales,Aluminio,0.0,2021,Jul
+2021-07-28,Recimed,Medellín,Metales,Chatarra,1787.9,2021,Jul
+2021-07-28,Recimed,Medellín,Otros,Icopor,0.0,2021,Jul
+2021-07-28,Recimed,Medellín,Otros,PVC,0.0,2021,Jul
+2021-07-28,Recimed,Medellín,Otros,Palos de Escoba,0.0,2021,Jul
+2021-07-28,Recimed,Medellín,Papeles y Cartones,Archivo,240.9,2021,Jul
+2021-07-28,Recimed,Medellín,Papeles y Cartones,Cartón,236.4,2021,Jul
+2021-07-28,Recimed,Medellín,Papeles y Cartones,Periódico,34.2,2021,Jul
+2021-07-28,Recimed,Medellín,Papeles y Cartones,Plega,186.5,2021,Jul
+2021-07-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,Jul
+2021-07-28,Recimed,Medellín,Plásticos,Pasta,40.3,2021,Jul
+2021-07-28,Recimed,Medellín,Plásticos,Pet,28.8,2021,Jul
+2021-07-28,Recimed,Medellín,Plásticos,Plega,0.0,2021,Jul
+2021-07-28,Recimed,Medellín,Plásticos,Plástico,59.0,2021,Jul
+2021-07-28,Recimed,Medellín,Vidrios,Vidrio,41.8,2021,Jul
+2021-08-28,Recimed,Medellín,Metales,Aluminio,8.6,2021,Ago
+2021-08-28,Recimed,Medellín,Metales,Chatarra,846.8,2021,Ago
+2021-08-28,Recimed,Medellín,Otros,Icopor,0.0,2021,Ago
+2021-08-28,Recimed,Medellín,Otros,PVC,143.8,2021,Ago
+2021-08-28,Recimed,Medellín,Otros,Palos de Escoba,130.0,2021,Ago
+2021-08-28,Recimed,Medellín,Papeles y Cartones,Archivo,758.3,2021,Ago
+2021-08-28,Recimed,Medellín,Papeles y Cartones,Cartón,340.7,2021,Ago
+2021-08-28,Recimed,Medellín,Papeles y Cartones,Periódico,77.1,2021,Ago
+2021-08-28,Recimed,Medellín,Papeles y Cartones,Plega,325.6,2021,Ago
+2021-08-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,Ago
+2021-08-28,Recimed,Medellín,Plásticos,Pasta,298.2,2021,Ago
+2021-08-28,Recimed,Medellín,Plásticos,Pet,95.9,2021,Ago
+2021-08-28,Recimed,Medellín,Plásticos,Plega,0.0,2021,Ago
+2021-08-28,Recimed,Medellín,Plásticos,Plástico,123.3,2021,Ago
+2021-08-28,Recimed,Medellín,Vidrios,Vidrio,74.3,2021,Ago
+2021-09-28,Recimed,Medellín,Metales,Aluminio,9.3,2021,Sept
+2021-09-28,Recimed,Medellín,Metales,Chatarra,2670.7,2021,Sept
+2021-09-28,Recimed,Medellín,Otros,Icopor,0.0,2021,Sept
+2021-09-28,Recimed,Medellín,Otros,PVC,79.8,2021,Sept
+2021-09-28,Recimed,Medellín,Otros,Palos de Escoba,141.0,2021,Sept
+2021-09-28,Recimed,Medellín,Papeles y Cartones,Archivo,622.5,2021,Sept
+2021-09-28,Recimed,Medellín,Papeles y Cartones,Cartón,710.4,2021,Sept
+2021-09-28,Recimed,Medellín,Papeles y Cartones,Periódico,102.5,2021,Sept
+2021-09-28,Recimed,Medellín,Papeles y Cartones,Plega,312.3,2021,Sept
+2021-09-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,Sept
+2021-09-28,Recimed,Medellín,Plásticos,Pasta,404.0,2021,Sept
+2021-09-28,Recimed,Medellín,Plásticos,Pet,102.8,2021,Sept
+2021-09-28,Recimed,Medellín,Plásticos,Plega,0.0,2021,Sept
+2021-09-28,Recimed,Medellín,Plásticos,Plástico,145.5,2021,Sept
+2021-09-28,Recimed,Medellín,Vidrios,Vidrio,110.5,2021,Sept
+2021-10-28,Recimed,Medellín,Metales,Aluminio,26.1,2021,Oct
+2021-10-28,Recimed,Medellín,Metales,Chatarra,1199.2,2021,Oct
+2021-10-28,Recimed,Medellín,Otros,Icopor,0.0,2021,Oct
+2021-10-28,Recimed,Medellín,Otros,PVC,54.0,2021,Oct
+2021-10-28,Recimed,Medellín,Otros,Palos de Escoba,34.0,2021,Oct
+2021-10-28,Recimed,Medellín,Papeles y Cartones,Archivo,1378.4,2021,Oct
+2021-10-28,Recimed,Medellín,Papeles y Cartones,Cartón,53.7,2021,Oct
+2021-10-28,Recimed,Medellín,Papeles y Cartones,Periódico,43.3,2021,Oct
+2021-10-28,Recimed,Medellín,Papeles y Cartones,Plega,459.3,2021,Oct
+2021-10-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,Oct
+2021-10-28,Recimed,Medellín,Plásticos,Pasta,123.2,2021,Oct
+2021-10-28,Recimed,Medellín,Plásticos,Pet,65.3,2021,Oct
+2021-10-28,Recimed,Medellín,Plásticos,Plega,0.0,2021,Oct
+2021-10-28,Recimed,Medellín,Plásticos,Plástico,45.7,2021,Oct
+2021-10-28,Recimed,Medellín,Vidrios,Vidrio,45.8,2021,Oct
+2021-11-28,Recimed,Medellín,Metales,Aluminio,24.0,2021,Nov
+2021-11-28,Recimed,Medellín,Metales,Chatarra,363.6,2021,Nov
+2021-11-28,Recimed,Medellín,Otros,Icopor,0.0,2021,Nov
+2021-11-28,Recimed,Medellín,Otros,PVC,67.0,2021,Nov
+2021-11-28,Recimed,Medellín,Otros,Palos de Escoba,63.0,2021,Nov
+2021-11-28,Recimed,Medellín,Papeles y Cartones,Archivo,1190.9,2021,Nov
+2021-11-28,Recimed,Medellín,Papeles y Cartones,Cartón,2975.0,2021,Nov
+2021-11-28,Recimed,Medellín,Papeles y Cartones,Periódico,69.9,2021,Nov
+2021-11-28,Recimed,Medellín,Papeles y Cartones,Plega,134.2,2021,Nov
+2021-11-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,Nov
+2021-11-28,Recimed,Medellín,Plásticos,Pasta,142.8,2021,Nov
+2021-11-28,Recimed,Medellín,Plásticos,Pet,70.0,2021,Nov
+2021-11-28,Recimed,Medellín,Plásticos,Plega,0.0,2021,Nov
+2021-11-28,Recimed,Medellín,Plásticos,Plástico,131.3,2021,Nov
+2021-11-28,Recimed,Medellín,Vidrios,Vidrio,99.9,2021,Nov
+2021-12-28,Recimed,Medellín,Metales,Aluminio,20.4,2021,Dic
+2021-12-28,Recimed,Medellín,Metales,Chatarra,4820.4,2021,Dic
+2021-12-28,Recimed,Medellín,Otros,Icopor,0.0,2021,Dic
+2021-12-28,Recimed,Medellín,Otros,PVC,60.7,2021,Dic
+2021-12-28,Recimed,Medellín,Otros,Palos de Escoba,76.0,2021,Dic
+2021-12-28,Recimed,Medellín,Papeles y Cartones,Archivo,630.7,2021,Dic
+2021-12-28,Recimed,Medellín,Papeles y Cartones,Cartón,851.0,2021,Dic
+2021-12-28,Recimed,Medellín,Papeles y Cartones,Periódico,31.0,2021,Dic
+2021-12-28,Recimed,Medellín,Papeles y Cartones,Plega,75.0,2021,Dic
+2021-12-28,Recimed,Medellín,Papeles y Cartones,Tetrapak,0.0,2021,Dic
+2021-12-28,Recimed,Medellín,Plásticos,Pasta,115.1,2021,Dic
+2021-12-28,Recimed,Medellín,Plásticos,Pet,179.3,2021,Dic
+2021-12-28,Recimed,Medellín,Plásticos,Plega,0.0,2021,Dic
+2021-12-28,Recimed,Medellín,Plásticos,Plástico,484.2,2021,Dic
+2021-12-28,Recimed,Medellín,Vidrios,Vidrio,250.1,2021,Dic
+2022-01-28,Recimed,Medellín,Metales,Acero,0.0,2022,Ene
+2022-01-28,Recimed,Medellín,Metales,Aluminio,251.5,2022,Ene
+2022-01-28,Recimed,Medellín,Metales,Antimonio,0.0,2022,Ene
+2022-01-28,Recimed,Medellín,Metales,Chatarra,6947.6,2022,Ene
+2022-01-28,Recimed,Medellín,Metales,Cobre,0.0,2022,Ene
+2022-01-28,Recimed,Medellín,Otros,Palos de Escoba,41.0,2022,Ene
+2022-01-28,Recimed,Medellín,Papeles y Cartones,Archivo,998.2,2022,Ene
+2022-01-28,Recimed,Medellín,Papeles y Cartones,Cartón,253.8,2022,Ene
+2022-01-28,Recimed,Medellín,Papeles y Cartones,Periódico,95.0,2022,Ene
+2022-01-28,Recimed,Medellín,Plásticos,PVC,85.0,2022,Ene
+2022-01-28,Recimed,Medellín,Plásticos,Pasta,91.2,2022,Ene
+2022-01-28,Recimed,Medellín,Plásticos,Pet,156.7,2022,Ene
+2022-01-28,Recimed,Medellín,Plásticos,Plega,152.4,2022,Ene
+2022-01-28,Recimed,Medellín,Plásticos,Plástico,82.2,2022,Ene
+2022-01-28,Recimed,Medellín,Vidrios,Vidrio,367.9,2022,Ene
+2022-02-28,Recimed,Medellín,Metales,Acero,3.0,2022,Feb
+2022-02-28,Recimed,Medellín,Metales,Aluminio,29.0,2022,Feb
+2022-02-28,Recimed,Medellín,Metales,Antimonio,15.2,2022,Feb
+2022-02-28,Recimed,Medellín,Metales,Chatarra,2944.6,2022,Feb
+2022-02-28,Recimed,Medellín,Metales,Cobre,229.0,2022,Feb
+2022-02-28,Recimed,Medellín,Otros,Palos de Escoba,49.0,2022,Feb
+2022-02-28,Recimed,Medellín,Papeles y Cartones,Archivo,970.8,2022,Feb
+2022-02-28,Recimed,Medellín,Papeles y Cartones,Cartón,666.3,2022,Feb
+2022-02-28,Recimed,Medellín,Papeles y Cartones,Periódico,2.0,2022,Feb
+2022-02-28,Recimed,Medellín,Plásticos,PVC,42.4,2022,Feb
+2022-02-28,Recimed,Medellín,Plásticos,Pasta,198.0,2022,Feb
+2022-02-28,Recimed,Medellín,Plásticos,Pet,220.8,2022,Feb
+2022-02-28,Recimed,Medellín,Plásticos,Plega,393.6,2022,Feb
+2022-02-28,Recimed,Medellín,Plásticos,Plástico,128.0,2022,Feb
+2022-02-28,Recimed,Medellín,Vidrios,Vidrio,338.8,2022,Feb
+2022-03-28,Recimed,Robledo,Metales,Acero,0.0,2022,Mar
+2022-03-28,Recimed,Robledo,Metales,Aluminio,3.2,2022,Mar
+2022-03-28,Recimed,Robledo,Metales,Chatarra,511.3,2022,Mar
+2022-03-28,Recimed,Robledo,Otros,PVC,16.0,2022,Mar
+2022-03-28,Recimed,Robledo,Otros,Palos de Escoba,27.0,2022,Mar
+2022-03-28,Recimed,Robledo,Papeles y Cartones,Archivo,235.0,2022,Mar
+2022-03-28,Recimed,Robledo,Papeles y Cartones,Cartón,287.6,2022,Mar
+2022-03-28,Recimed,Robledo,Papeles y Cartones,Periódico,17.0,2022,Mar
+2022-03-28,Recimed,Robledo,Papeles y Cartones,Plega,170.6,2022,Mar
+2022-03-28,Recimed,Robledo,Plásticos,Pasta,106.8,2022,Mar
+2022-03-28,Recimed,Robledo,Plásticos,Pet,133.0,2022,Mar
+2022-03-28,Recimed,Robledo,Plásticos,Plástico,81.3,2022,Mar
+2022-03-28,Recimed,Robledo,Vidrios,Vidrio,110.6,2022,Mar
+2022-03-28,Recimed,Volador,Metales,Acero,0.0,2022,Mar
+2022-03-28,Recimed,Volador,Metales,Aluminio,197.2,2022,Mar
+2022-03-28,Recimed,Volador,Metales,Chatarra,4464.0,2022,Mar
+2022-03-28,Recimed,Volador,Metales,Cobre,0.0,2022,Mar
+2022-03-28,Recimed,Volador,Otros,PVC,0.0,2022,Mar
+2022-03-28,Recimed,Volador,Otros,Palos de Escoba,0.0,2022,Mar
+2022-03-28,Recimed,Volador,Papeles y Cartones,Archivo,410.1,2022,Mar
+2022-03-28,Recimed,Volador,Papeles y Cartones,Cartón,427.9,2022,Mar
+2022-03-28,Recimed,Volador,Papeles y Cartones,Periódico,33.3,2022,Mar
+2022-03-28,Recimed,Volador,Papeles y Cartones,Plega,196.1,2022,Mar
+2022-03-28,Recimed,Volador,Plásticos,Pasta,59.9,2022,Mar
+2022-03-28,Recimed,Volador,Plásticos,Pet,176.9,2022,Mar
+2022-03-28,Recimed,Volador,Plásticos,Plega,0.0,2022,Mar
+2022-03-28,Recimed,Volador,Plásticos,Plástico,44.2,2022,Mar
+2022-03-28,Recimed,Volador,Vidrios,Vidrio,192.0,2022,Mar
+2022-04-28,Recimed,Robledo,Metales,Acero,0.0,2022,Abr
+2022-04-28,Recimed,Robledo,Metales,Aluminio,0.0,2022,Abr
+2022-04-28,Recimed,Robledo,Metales,Chatarra,493.4,2022,Abr
+2022-04-28,Recimed,Robledo,Otros,PVC,5.6,2022,Abr
+2022-04-28,Recimed,Robledo,Otros,Palos de Escoba,7.0,2022,Abr
+2022-04-28,Recimed,Robledo,Papeles y Cartones,Archivo,192.8,2022,Abr
+2022-04-28,Recimed,Robledo,Papeles y Cartones,Cartón,57.0,2022,Abr
+2022-04-28,Recimed,Robledo,Papeles y Cartones,Periódico,0.0,2022,Abr
+2022-04-28,Recimed,Robledo,Papeles y Cartones,Plega,17.8,2022,Abr
+2022-04-28,Recimed,Robledo,Plásticos,Pasta,73.6,2022,Abr
+2022-04-28,Recimed,Robledo,Plásticos,Pet,25.0,2022,Abr
+2022-04-28,Recimed,Robledo,Plásticos,Plástico,16.2,2022,Abr
+2022-04-28,Recimed,Robledo,Vidrios,Vidrio,24.4,2022,Abr
+2022-04-28,Recimed,Volador,Metales,Acero,0.0,2022,Abr
+2022-04-28,Recimed,Volador,Metales,Aluminio,0.0,2022,Abr
+2022-04-28,Recimed,Volador,Metales,Chatarra,660.0,2022,Abr
+2022-04-28,Recimed,Volador,Metales,Cobre,0.0,2022,Abr
+2022-04-28,Recimed,Volador,Otros,PVC,0.0,2022,Abr
+2022-04-28,Recimed,Volador,Otros,Palos de Escoba,0.0,2022,Abr
+2022-04-28,Recimed,Volador,Papeles y Cartones,Archivo,390.2,2022,Abr
+2022-04-28,Recimed,Volador,Papeles y Cartones,Cartón,572.4,2022,Abr
+2022-04-28,Recimed,Volador,Papeles y Cartones,Periódico,30.8,2022,Abr
+2022-04-28,Recimed,Volador,Papeles y Cartones,Plega,266.0,2022,Abr
+2022-04-28,Recimed,Volador,Plásticos,Pasta,204.9,2022,Abr
+2022-04-28,Recimed,Volador,Plásticos,Pet,305.1,2022,Abr
+2022-04-28,Recimed,Volador,Plásticos,Plega,0.0,2022,Abr
+2022-04-28,Recimed,Volador,Plásticos,Plástico,12.4,2022,Abr
+2022-04-28,Recimed,Volador,Vidrios,Vidrio,89.9,2022,Abr
+2022-05-28,Recimed,Robledo,Metales,Acero,10.9,2022,May
+2022-05-28,Recimed,Robledo,Metales,Aluminio,9.3,2022,May
+2022-05-28,Recimed,Robledo,Metales,Chatarra,381.7,2022,May
+2022-05-28,Recimed,Robledo,Otros,PVC,23.0,2022,May
+2022-05-28,Recimed,Robledo,Otros,Palos de Escoba,1.0,2022,May
+2022-05-28,Recimed,Robledo,Papeles y Cartones,Archivo,163.1,2022,May
+2022-05-28,Recimed,Robledo,Papeles y Cartones,Cartón,389.9,2022,May
+2022-05-28,Recimed,Robledo,Papeles y Cartones,Periódico,0.0,2022,May
+2022-05-28,Recimed,Robledo,Papeles y Cartones,Plega,174.4,2022,May
+2022-05-28,Recimed,Robledo,Plásticos,Pasta,182.0,2022,May
+2022-05-28,Recimed,Robledo,Plásticos,Pet,138.7,2022,May
+2022-05-28,Recimed,Robledo,Plásticos,Plástico,39.5,2022,May
+2022-05-28,Recimed,Robledo,Vidrios,Vidrio,181.4,2022,May
+2022-05-28,Recimed,Volador,Metales,Acero,24.0,2022,May
+2022-05-28,Recimed,Volador,Metales,Aluminio,23.8,2022,May
+2022-05-28,Recimed,Volador,Metales,Chatarra,1178.1,2022,May
+2022-05-28,Recimed,Volador,Metales,Cobre,74.0,2022,May
+2022-05-28,Recimed,Volador,Otros,PVC,0.0,2022,May
+2022-05-28,Recimed,Volador,Otros,Palos de Escoba,0.0,2022,May
+2022-05-28,Recimed,Volador,Papeles y Cartones,Archivo,608.5,2022,May
+2022-05-28,Recimed,Volador,Papeles y Cartones,Cartón,343.44,2022,May
+2022-05-28,Recimed,Volador,Papeles y Cartones,Periódico,54.9,2022,May
+2022-05-28,Recimed,Volador,Papeles y Cartones,Plega,298.3,2022,May
+2022-05-28,Recimed,Volador,Plásticos,Pasta,69.7,2022,May
+2022-05-28,Recimed,Volador,Plásticos,Pet,445.8,2022,May
+2022-05-28,Recimed,Volador,Plásticos,Plega,0.0,2022,May
+2022-05-28,Recimed,Volador,Plásticos,Plástico,67.3,2022,May
+2022-05-28,Recimed,Volador,Vidrios,Vidrio,710.3,2022,May
+2022-06-28,Recimed,Robledo,Metales,Acero,0.0,2022,Jun
+2022-06-28,Recimed,Robledo,Metales,Aluminio,0.0,2022,Jun
+2022-06-28,Recimed,Robledo,Metales,Chatarra,48.6,2022,Jun
+2022-06-28,Recimed,Robledo,Otros,PVC,0.0,2022,Jun
+2022-06-28,Recimed,Robledo,Otros,Palos de Escoba,0.0,2022,Jun
+2022-06-28,Recimed,Robledo,Papeles y Cartones,Archivo,86.2,2022,Jun
+2022-06-28,Recimed,Robledo,Papeles y Cartones,Cartón,37.0,2022,Jun
+2022-06-28,Recimed,Robledo,Papeles y Cartones,Periódico,0.0,2022,Jun
+2022-06-28,Recimed,Robledo,Papeles y Cartones,Plega,19.8,2022,Jun
+2022-06-28,Recimed,Robledo,Plásticos,Pasta,23.4,2022,Jun
+2022-06-28,Recimed,Robledo,Plásticos,Pet,40.0,2022,Jun
+2022-06-28,Recimed,Robledo,Plásticos,Plástico,3.2,2022,Jun
+2022-06-28,Recimed,Robledo,Vidrios,Vidrio,70.2,2022,Jun
+2022-06-28,Recimed,Volador,Metales,Acero,0.0,2022,Jun
+2022-06-28,Recimed,Volador,Metales,Aluminio,5.1,2022,Jun
+2022-06-28,Recimed,Volador,Metales,Chatarra,122.0,2022,Jun
+2022-06-28,Recimed,Volador,Metales,Cobre,0.0,2022,Jun
+2022-06-28,Recimed,Volador,Otros,PVC,14.9,2022,Jun
+2022-06-28,Recimed,Volador,Otros,Palos de Escoba,29.0,2022,Jun
+2022-06-28,Recimed,Volador,Papeles y Cartones,Archivo,542.3,2022,Jun
+2022-06-28,Recimed,Volador,Papeles y Cartones,Cartón,460.3,2022,Jun
+2022-06-28,Recimed,Volador,Papeles y Cartones,Periódico,39.9,2022,Jun
+2022-06-28,Recimed,Volador,Papeles y Cartones,Plega,220.1,2022,Jun
+2022-06-28,Recimed,Volador,Plásticos,Pasta,81.0,2022,Jun
+2022-06-28,Recimed,Volador,Plásticos,Pet,143.1,2022,Jun
+2022-06-28,Recimed,Volador,Plásticos,Plega,0.0,2022,Jun
+2022-06-28,Recimed,Volador,Plásticos,Plástico,133.4,2022,Jun
+2022-06-28,Recimed,Volador,Vidrios,Vidrio,161.3,2022,Jun
+2022-07-28,Recimed,Robledo,Metales,Acero,0.0,2022,Jul
+2022-07-28,Recimed,Robledo,Metales,Aluminio,0.0,2022,Jul
+2022-07-28,Recimed,Robledo,Metales,Chatarra,113.4,2022,Jul
+2022-07-28,Recimed,Robledo,Otros,PVC,0.0,2022,Jul
+2022-07-28,Recimed,Robledo,Otros,Palos de Escoba,0.0,2022,Jul
+2022-07-28,Recimed,Robledo,Papeles y Cartones,Archivo,101.2,2022,Jul
+2022-07-28,Recimed,Robledo,Papeles y Cartones,Cartón,75.4,2022,Jul
+2022-07-28,Recimed,Robledo,Papeles y Cartones,Periódico,0.0,2022,Jul
+2022-07-28,Recimed,Robledo,Papeles y Cartones,Plega,53.1,2022,Jul
+2022-07-28,Recimed,Robledo,Plásticos,Pasta,0.0,2022,Jul
+2022-07-28,Recimed,Robledo,Plásticos,Pet,53.8,2022,Jul
+2022-07-28,Recimed,Robledo,Plásticos,Plástico,15.5,2022,Jul
+2022-07-28,Recimed,Robledo,Vidrios,Vidrio,72.0,2022,Jul
+2022-07-28,Recimed,Volador,Metales,Acero,0.0,2022,Jul
+2022-07-28,Recimed,Volador,Metales,Aluminio,48.8,2022,Jul
+2022-07-28,Recimed,Volador,Metales,Chatarra,0.0,2022,Jul
+2022-07-28,Recimed,Volador,Metales,Cobre,0.0,2022,Jul
+2022-07-28,Recimed,Volador,Otros,PVC,0.0,2022,Jul
+2022-07-28,Recimed,Volador,Otros,Palos de Escoba,0.0,2022,Jul
+2022-07-28,Recimed,Volador,Papeles y Cartones,Archivo,1707.0,2022,Jul
+2022-07-28,Recimed,Volador,Papeles y Cartones,Cartón,111.4,2022,Jul
+2022-07-28,Recimed,Volador,Papeles y Cartones,Periódico,18.0,2022,Jul
+2022-07-28,Recimed,Volador,Papeles y Cartones,Plega,812.0,2022,Jul
+2022-07-28,Recimed,Volador,Plásticos,Pasta,201.3,2022,Jul
+2022-07-28,Recimed,Volador,Plásticos,Pet,376.3,2022,Jul
+2022-07-28,Recimed,Volador,Plásticos,Plega,0.0,2022,Jul
+2022-07-28,Recimed,Volador,Plásticos,Plástico,217.4,2022,Jul
+2022-07-28,Recimed,Volador,Vidrios,Vidrio,0.0,2022,Jul
+2022-08-28,Recimed,Robledo,Metales,Acero,0.0,2022,Ago
+2022-08-28,Recimed,Robledo,Metales,Aluminio,0.0,2022,Ago
+2022-08-28,Recimed,Robledo,Metales,Chatarra,318.4,2022,Ago
+2022-08-28,Recimed,Robledo,Otros,PVC,155.8,2022,Ago
+2022-08-28,Recimed,Robledo,Otros,Palos de Escoba,0.0,2022,Ago
+2022-08-28,Recimed,Robledo,Papeles y Cartones,Archivo,0.0,2022,Ago
+2022-08-28,Recimed,Robledo,Papeles y Cartones,Cartón,94.8,2022,Ago
+2022-08-28,Recimed,Robledo,Papeles y Cartones,Periódico,0.0,2022,Ago
+2022-08-28,Recimed,Robledo,Papeles y Cartones,Plega,1.2,2022,Ago
+2022-08-28,Recimed,Robledo,Plásticos,Pasta,38.4,2022,Ago
+2022-08-28,Recimed,Robledo,Plásticos,Pet,22.4,2022,Ago
+2022-08-28,Recimed,Robledo,Plásticos,Plástico,5.2,2022,Ago
+2022-08-28,Recimed,Robledo,Vidrios,Vidrio,22.2,2022,Ago
+2022-08-28,Recimed,Volador,Metales,Acero,8.5,2022,Ago
+2022-08-28,Recimed,Volador,Metales,Aluminio,38.2,2022,Ago
+2022-08-28,Recimed,Volador,Metales,Chatarra,2050.9,2022,Ago
+2022-08-28,Recimed,Volador,Metales,Cobre,0.0,2022,Ago
+2022-08-28,Recimed,Volador,Otros,PVC,73.2,2022,Ago
+2022-08-28,Recimed,Volador,Otros,Palos de Escoba,90.0,2022,Ago
+2022-08-28,Recimed,Volador,Papeles y Cartones,Archivo,1575.0,2022,Ago
+2022-08-28,Recimed,Volador,Papeles y Cartones,Cartón,1357.1,2022,Ago
+2022-08-28,Recimed,Volador,Papeles y Cartones,Periódico,26.7,2022,Ago
+2022-08-28,Recimed,Volador,Papeles y Cartones,Plega,1067.9,2022,Ago
+2022-08-28,Recimed,Volador,Plásticos,Pasta,116.2,2022,Ago
+2022-08-28,Recimed,Volador,Plásticos,Pet,287.9,2022,Ago
+2022-08-28,Recimed,Volador,Plásticos,Plega,10.5,2022,Ago
+2022-08-28,Recimed,Volador,Plásticos,Plástico,176.1,2022,Ago
+2022-08-28,Recimed,Volador,Vidrios,Vidrio,740.4,2022,Ago
+2022-09-28,Recimed,Robledo,Metales,Aluminio,7.1,2022,Sept
+2022-09-28,Recimed,Robledo,Metales,Chatarra,23.2,2022,Sept
+2022-09-28,Recimed,Robledo,Otros,PVC,41.2,2022,Sept
+2022-09-28,Recimed,Robledo,Otros,Palos de Escoba,32.0,2022,Sept
+2022-09-28,Recimed,Robledo,Papeles y Cartones,Archivo,202.8,2022,Sept
+2022-09-28,Recimed,Robledo,Papeles y Cartones,Cartón,175.1,2022,Sept
+2022-09-28,Recimed,Robledo,Papeles y Cartones,Periódico,1.2,2022,Sept
+2022-09-28,Recimed,Robledo,Papeles y Cartones,Plega,86.8,2022,Sept
+2022-09-28,Recimed,Robledo,Plásticos,Pasta,60.0,2022,Sept
+2022-09-28,Recimed,Robledo,Plásticos,Pet,93.7,2022,Sept
+2022-09-28,Recimed,Robledo,Plásticos,Plástico,61.8,2022,Sept
+2022-09-28,Recimed,Robledo,Plásticos,Vaso desechable,0.0,2022,Sept
+2022-09-28,Recimed,Robledo,Vidrios,Vidrio,138.8,2022,Sept
+2022-09-28,Recimed,Volador,Metales,Aluminio,60.4,2022,Sept
+2022-09-28,Recimed,Volador,Metales,Chatarra,253.3,2022,Sept
+2022-09-28,Recimed,Volador,Otros,PVC,75.9,2022,Sept
+2022-09-28,Recimed,Volador,Otros,Palos de Escoba,34.0,2022,Sept
+2022-09-28,Recimed,Volador,Papeles y Cartones,Archivo,721.1,2022,Sept
+2022-09-28,Recimed,Volador,Papeles y Cartones,Cartón,775.0,2022,Sept
+2022-09-28,Recimed,Volador,Papeles y Cartones,Periódico,11.2,2022,Sept
+2022-09-28,Recimed,Volador,Papeles y Cartones,Plega,962.8,2022,Sept
+2022-09-28,Recimed,Volador,Plásticos,Pasta,168.4,2022,Sept
+2022-09-28,Recimed,Volador,Plásticos,Pet,398.1,2022,Sept
+2022-09-28,Recimed,Volador,Plásticos,Plástico,167.3,2022,Sept
+2022-09-28,Recimed,Volador,Plásticos,Vaso desechable,20.2,2022,Sept
+2022-09-28,Recimed,Volador,Vidrios,Vidrio,432.7,2022,Sept
+2022-10-28,Recimed,Robledo,Metales,Aluminio,0.0,2022,Oct
+2022-10-28,Recimed,Robledo,Metales,Chatarra,15.8,2022,Oct
+2022-10-28,Recimed,Robledo,Otros,PVC,0.0,2022,Oct
+2022-10-28,Recimed,Robledo,Otros,Palos de Escoba,13.0,2022,Oct
+2022-10-28,Recimed,Robledo,Papeles y Cartones,Archivo,139.0,2022,Oct
+2022-10-28,Recimed,Robledo,Papeles y Cartones,Cartón,128.8,2022,Oct
+2022-10-28,Recimed,Robledo,Papeles y Cartones,Periódico,6.2,2022,Oct
+2022-10-28,Recimed,Robledo,Papeles y Cartones,Plega,54.8,2022,Oct
+2022-10-28,Recimed,Robledo,Plásticos,Pasta,0.0,2022,Oct
+2022-10-28,Recimed,Robledo,Plásticos,Pet,62.0,2022,Oct
+2022-10-28,Recimed,Robledo,Plásticos,Plástico,5.6,2022,Oct
+2022-10-28,Recimed,Robledo,Plásticos,Vaso desechable,0.0,2022,Oct
+2022-10-28,Recimed,Robledo,Vidrios,Vidrio,88.8,2022,Oct
+2022-10-28,Recimed,Volador,Metales,Aluminio,125.7,2022,Oct
+2022-10-28,Recimed,Volador,Metales,Chatarra,219.3,2022,Oct
+2022-10-28,Recimed,Volador,Otros,PVC,0.0,2022,Oct
+2022-10-28,Recimed,Volador,Otros,Palos de Escoba,0.0,2022,Oct
+2022-10-28,Recimed,Volador,Papeles y Cartones,Archivo,367.4,2022,Oct
+2022-10-28,Recimed,Volador,Papeles y Cartones,Cartón,741.6,2022,Oct
+2022-10-28,Recimed,Volador,Papeles y Cartones,Periódico,21.2,2022,Oct
+2022-10-28,Recimed,Volador,Papeles y Cartones,Plega,876.7,2022,Oct
+2022-10-28,Recimed,Volador,Plásticos,Pasta,136.6,2022,Oct
+2022-10-28,Recimed,Volador,Plásticos,Pet,336.8,2022,Oct
+2022-10-28,Recimed,Volador,Plásticos,Plástico,269.0,2022,Oct
+2022-10-28,Recimed,Volador,Plásticos,Vaso desechable,22.5,2022,Oct
+2022-10-28,Recimed,Volador,Vidrios,Vidrio,499.9,2022,Oct
+2022-11-28,Recimed,Volador,Metal,Acero,0.0,2022,Nov
+2022-12-28,Recimed,Volador,Metal,Acero,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Metal,Aluminio,48.7,2022,Nov
+2022-12-28,Recimed,Volador,Metal,Aluminio,53.6,2022,Dic
+2022-11-28,Recimed,Volador,Metal,Aluminio,0.0,2022,Nov
+2022-12-28,Recimed,Volador,Metal,Aluminio,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Metal,Aluminio,0.0,2022,Nov
+2022-12-28,Recimed,Volador,Metal,Aluminio,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Metal,Aluminio,0.0,2022,Nov
+2022-12-28,Recimed,Volador,Metal,Aluminio,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Otros,Antimonio,0.0,2022,Nov
+2022-12-28,Recimed,Volador,Otros,Antimonio,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Papeles y Cartones,Archivo,742.1,2022,Nov
+2022-12-28,Recimed,Volador,Papeles y Cartones,Archivo,980.9,2022,Dic
+2022-11-28,Recimed,Volador,Otros,Carton,459.2,2022,Nov
+2022-12-28,Recimed,Volador,Otros,Carton,547.4,2022,Dic
+2022-11-28,Recimed,Volador,Metal,Chatarra,302.7,2022,Nov
+2022-12-28,Recimed,Volador,Metal,Chatarra,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Metal,Cobre,0.0,2022,Nov
+2022-12-28,Recimed,Volador,Metal,Cobre,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Metal,Cobre,0.0,2022,Nov
+2022-12-28,Recimed,Volador,Metal,Cobre,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Otros,Cubetas de huevo,0.0,2022,Nov
+2022-11-28,Recimed,Robledo,Metal,Acero,0.0,2022,Nov
+2022-11-28,Recimed,Volador,Otros,Palos de escoba,40.0,2022,Nov
+2022-12-28,Recimed,Volador,Otros,Palos de escoba,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Otros,Frasco bocon,0.0,2022,Nov
+2022-12-28,Recimed,Volador,Otros,Frasco bocon,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Otros,Pasta ,84.0,2022,Nov
+2022-12-28,Recimed,Volador,Otros,Pasta ,145.5,2022,Dic
+2022-11-28,Recimed,Volador,Otros,Periodico,86.7,2022,Nov
+2022-12-28,Recimed,Volador,Otros,Periodico,41.4,2022,Dic
+2022-11-28,Recimed,Volador,Plástico,PET,452.7000000000001,2022,Nov
+2022-12-28,Recimed,Volador,Plástico,PET,179.0,2022,Dic
+2022-11-28,Recimed,Volador,Otros,Plastico ,152.3,2022,Nov
+2022-12-28,Recimed,Volador,Otros,Plastico ,25.0,2022,Dic
+2022-11-28,Recimed,Volador,Papeles y Cartones,Plega,1422.6,2022,Nov
+2022-12-28,Recimed,Volador,Papeles y Cartones,Plega,304.5,2022,Dic
+2022-11-28,Recimed,Volador,Plástico,PVC,13.8,2022,Nov
+2022-12-28,Recimed,Volador,Plástico,PVC,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Otros,Tetrapak,0.0,2022,Nov
+2022-12-28,Recimed,Volador,Otros,Tetrapak,0.0,2022,Dic
+2022-11-28,Recimed,Volador,Plástico,Vaso desechable,22.3,2022,Nov
+2022-12-28,Recimed,Volador,Plástico,Vaso desechable,10.0,2022,Dic
+2022-11-28,Recimed,Volador,Vidrio,Vidrio,554.9000000000001,2022,Nov
+2023-02-28,Recimed,Volador,Metal,Aluminio,26.0,2023,Feb
+2022-12-28,Recimed,Robledo,Metal,Acero,0.0,2022,Dic
+2022-11-28,Recimed,Robledo,Metal,Aluminio,0.0,2022,Nov
+2022-12-28,Recimed,Robledo,Metal,Aluminio,9.0,2022,Dic
+2022-11-28,Recimed,Robledo,Metal,Aluminio,0.0,2022,Nov
+2022-12-28,Recimed,Robledo,Metal,Aluminio,0.0,2022,Dic
+2022-11-28,Recimed,Robledo,Metal,Cobre,0.0,2022,Nov
+2022-12-28,Recimed,Robledo,Metal,Cobre,0.0,2022,Dic
+2022-11-28,Recimed,Robledo,Metal,Cobre,0.0,2022,Nov
+2022-12-28,Recimed,Robledo,Metal,Cobre,0.0,2022,Dic
+2022-11-28,Recimed,Robledo,Papeles y Cartones,Archivo,152.0,2022,Nov
+2022-12-28,Recimed,Robledo,Papeles y Cartones,Archivo,221.2,2022,Dic
+2022-11-28,Recimed,Robledo,Otros,Carton,162.4,2022,Nov
+2022-12-28,Recimed,Robledo,Otros,Carton,102.0,2022,Dic
+2022-11-28,Recimed,Robledo,Metal,Chatarra,0.0,2022,Nov
+2022-12-28,Recimed,Robledo,Metal,Chatarra,888.0,2022,Dic
+2022-11-28,Recimed,Robledo,Otros,Palos,34.0,2022,Nov
+2022-12-28,Recimed,Robledo,Otros,Palos,4.25,2022,Dic
+2022-11-28,Recimed,Robledo,Plástico,Pasta,39.8,2022,Nov
+2022-12-28,Recimed,Robledo,Plástico,Pasta,71.4,2022,Dic
+2022-11-28,Recimed,Robledo,Plástico,PVC,0.0,2022,Nov
+2022-12-28,Recimed,Robledo,Plástico,PVC,0.0,2022,Dic
+2023-01-28,Recimed,Volador,Metal,Aluminio,0.0,2023,Ene
+2023-01-28,Recimed,Volador,Papeles y Cartones,Archivo,1237.8,2023,Ene
+2022-11-28,Recimed,Robledo,Plástico,PET,81.2,2022,Nov
+2022-12-28,Recimed,Robledo,Plástico,PET,64.0,2022,Dic
+2022-11-28,Recimed,Robledo,Otros,Pet cafe,0.0,2022,Nov
+2022-12-28,Recimed,Robledo,Otros,Pet cafe,0.0,2022,Dic
+2022-11-28,Recimed,Robledo,Otros,Pet aceite,0.0,2022,Nov
+2022-12-28,Recimed,Robledo,Otros,Pet aceite,0.0,2022,Dic
+2022-11-28,Recimed,Robledo,Otros,Pet verde,0.0,2022,Nov
+2022-12-28,Recimed,Robledo,Otros,Pet verde,0.0,2022,Dic
+2022-11-28,Recimed,Robledo,Plástico,Plástico,17.4,2022,Nov
+2022-12-28,Recimed,Robledo,Plástico,Plástico,4.0,2022,Dic
+2022-11-28,Recimed,Robledo,Papeles y Cartones,Plega,85.6,2022,Nov
+2023-01-28,Recimed,Robledo,Metal,Aluminio,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Metal,Cobre,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Papeles y Cartones,Archivo,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Metal,Chatarra,324.0,2023,Ene
+2023-01-28,Recimed,Robledo,Plástico,Pasta,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Otros,Periodico,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Otros,Pet cafe,0.0,2023,Ene
+2022-11-28,Recimed,Robledo,Otros,Total,722.8,2022,Nov
+2022-12-28,Recimed,Robledo,Otros,Total,1471.2500000000002,2022,Dic
+2023-02-28,Recimed,Volador,Papeles y Cartones,Archivo,204.7,2023,Feb
+2023-01-28,Recimed,Volador,Otros,Cartón,382.0,2023,Ene
+2023-02-28,Recimed,Volador,Otros,Cartón,232.1,2023,Feb
+2023-01-28,Recimed,Volador,Metal,Chatarra,1488.0,2023,Ene
+2023-02-28,Recimed,Volador,Metal,Chatarra,182.5,2023,Feb
+2023-01-28,Recimed,Volador,Otros,Cubetas de huevo,0.0,2023,Ene
+2023-02-28,Recimed,Volador,Otros,Cubetas de huevo,17.016,2023,Feb
+2023-01-28,Recimed,Volador,Otros,Palos de escoba,8.0,2023,Ene
+2023-02-28,Recimed,Volador,Otros,Palos de escoba,0.0,2023,Feb
+2023-01-28,Recimed,Volador,Otros,Pasta ,180.0,2023,Ene
+2023-02-28,Recimed,Volador,Otros,Pasta ,232.1,2023,Feb
+2023-01-28,Recimed,Robledo,Metal,Acero,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Metal,Aluminio,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Metal,Cobre,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Otros,Carton,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Otros,Palos,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Plástico,PVC,0.0,2023,Ene
+2023-01-28,Recimed,Robledo,Plástico,PET,0.0,2023,Ene
+2023-02-28,Recimed,Volador,Papeles y Cartones,Plega,278.6,2023,Feb
+2023-01-28,Recimed,Volador,Otros,Tuberia pvc,78.0,2023,Ene
+2023-02-28,Recimed,Volador,Otros,Tuberia pvc,0.0,2023,Feb
+2023-01-28,Recimed,Volador,Plástico,Vaso desechable,0.0,2023,Ene
+2023-02-28,Recimed,Volador,Plástico,Vaso desechable,48.0,2023,Feb
+2023-01-28,Recimed,Volador,Vidrio,Vidrio,151.0,2023,Ene
+2023-02-28,Recimed,Volador,Vidrio,Vidrio,278.6,2023,Feb
+2022-03-28,,San Pablo,,Reciclaje,5.0,2022,Mar
+2022-04-28,,San Pablo,,Reciclaje,7.86,2022,Abr
+2022-05-28,,San Pablo,,Reciclaje,13.27,2022,May
+2022-06-28,,San Pablo,,Reciclaje,7.0,2022,Jun
+2022-03-28,,Cotove,,Reciclaje,9.0,2022,Mar
+2022-04-28,,Cotove,,Reciclaje,24.0,2022,Abr
+2022-05-28,,Cotove,,Reciclaje,18.5,2022,May
+2022-06-28,,Cotove,,Reciclaje,19.0,2022,Jun
+2022-07-28,,Cotove,,Reciclaje,8.35,2022,Jul
+2022-08-28,,Cotove,,Reciclaje,18.0,2022,Ago
+2022-09-28,,Cotove,,Reciclaje,27.0,2022,Sept
+2022-10-28,,Cotove,,Reciclaje,17.5,2022,Oct
+2022-11-28,,Cotove,,Reciclaje,15.8,2022,Nov
+2022-10-28,,Paysandu,,Reciclaje,21.0,2022,Oct
+2022-11-28,,Paysandu,,Reciclaje,29.0,2022,Nov
